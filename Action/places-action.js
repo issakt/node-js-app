@@ -1,3 +1,5 @@
+const HttpError = require("../Error-Model/Http-Error");
+
 const DUMMY_PLACES = [
   {
     id: "p1",
